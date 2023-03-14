@@ -105,3 +105,4 @@ print(cleandoc(defence.__doc__))
 print(cleandoc(special.__doc__))
 print(cleandoc(start_training.__doc__))
 print(cleandoc(choice_char_class.__doc__))
+sdsd
